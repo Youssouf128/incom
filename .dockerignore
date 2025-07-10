@@ -1,0 +1,13 @@
+node_modules
+dist
+.git
+.gitlab
+.gitignore
+Dockerfile
+README.md
+*.log
+*.md
+*.lock
+.vscode
+*.toml
+*.tsbuildinfo

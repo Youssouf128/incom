@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://youssoufabayazid.online/sitemap.xml
